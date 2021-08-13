@@ -15,7 +15,7 @@ RoxygenNote: 7.1.1
 Imports: 
     RBGL, RColorBrewer, RSQLite, Cairo, Rcpp (>= 1.0.5), ggplot2, BiocParallel, progress, Rserve, rlang, 
     jsonlite, plyr, purrr, data.table, vctrs, qs, pROC, caret, crmn, dplyr, edgeR, fgsea, glasso, gplots, igraph, impute,
-    pcaMethods, plotly, scales, MSnbase, tibble, siggenes, lattice, MASS, OptiLCMS
+    pcaMethods, plotly, scales, MSnbase, tibble, siggenes, lattice, MASS
 Suggests: 
     graph, htmltools, pls, ellipse, scatterplot3d, randomForest, caTools, e1071, som, RJSONIO, ROCR,
     globaltest, GlobalAncova, Rgraphviz, preprocessCore, genefilter, pheatmap, SSPA, sva, limma, fitdistrplus,
